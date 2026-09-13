@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "name": "สินค้าทดสอบ2",
+    "qty": 10,
+    "price": 500.0,
+    "category": "number",
+    "barcode": "1",
+    "reorder_point": 5
+  },
+  {
+    "id": 2,
+    "name": "สินค้าทดสอบ",
+    "qty": 3,
+    "price": 150.0,
+    "category": "Electronics",
+    "barcode": "12",
+    "reorder_point": 5
+  },
+  {
+    "id": 3,
+    "name": "คีย์บอร์ดไร้สาย (Wireless Keyboard)",
+    "qty": 15,
+    "price": 890.0,
+    "category": "Electronics",
+    "barcode": "123",
+    "reorder_point": 5
+  },
+  {
+    "id": 4,
+    "name": "กาแฟดริปออร์แกนิก (Drip Coffee)",
+    "qty": 25,
+    "price": 220.0,
+    "category": "Food & Beverage",
+    "barcode": "1234",
+    "reorder_point": 10
+  },
+  {
+    "id": 5,
+    "name": "สมุดโน้ตปกหนัง A5",
+    "qty": 40,
+    "price": 120.0,
+    "category": "Office Supplies",
+    "barcode": "12345",
+    "reorder_point": 15
+  },
+  {
+    "id": 6,
+    "name": "เก้าอี้ทำงานเพื่อสุขภาพ (Ergonomic Chair)",
+    "qty": 4,
+    "price": 4500.0,
+    "category": "Furniture",
+    "barcode": "123456",
+    "reorder_point": 5
+  },
+  {
+    "id": 7,
+    "name": "เจลล้างหน้าสูตรอ่อนโยน (Gentle Cleanser)",
+    "qty": 18,
+    "price": 290.0,
+    "category": "Health & Beauty",
+    "barcode": "1234567",
+    "reorder_point": 8
+  },
+  {
+    "id": 8,
+    "name": "ชุดไขควงอเนกประสงค์ 24-in-1",
+    "qty": 2,
+    "price": 350.0,
+    "category": "Tools & Hardware",
+    "barcode": "12345678",
+    "reorder_point": 5
+  },
+  {
+    "id": 9,
+    "name": "เสื้อยืดคอกลมผ้าฝ้าย 100%",
+    "qty": 30,
+    "price": 199.0,
+    "category": "Clothing & Apparel",
+    "barcode": "123456789",
+    "reorder_point": 10
+  },
+  {
+    "id": 10,
+    "name": "กระบอกน้ำสแตนเลสเก็บอุณหภูมิ",
+    "qty": 12,
+    "price": 450.0,
+    "category": "Home & Living",
+    "barcode": "12345678910",
+    "reorder_point": 6
+  },
+  {
+    "id": 11,
+    "name": "สายยางยืดออกกำลังกาย (Resistance Band)",
+    "qty": 3,
+    "price": 250.0,
+    "category": "Sports & Outdoors",
+    "barcode": "123456789101",
+    "reorder_point": 5
+  },
+  {
+    "id": 12,
+    "name": "หนังสือ Clean Code ภาษาไทย",
+    "qty": 8,
+    "price": 495.0,
+    "category": "Books & Media",
+    "barcode": "123456789102",
+    "reorder_point": 4
+  }
+]
